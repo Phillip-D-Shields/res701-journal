@@ -20,5 +20,4 @@ Omar Khayyam was a life-long scholar that dedicated his life to finding truth. H
 
 > Truth changes as men change, and when truth becomes stable men will become dead, and the insect and the fire and the flood will become truth. ~Bukowski
 
-Bukowski was a brilliant writer that lived a rough and 
-
+Bukowski was a brilliant writer that lived a rough and rather ugly lifestyle. I always appreciated the honesty of his writings, as brutal as they might sometimes be. The quote above illustrates that usually truth is relative to humans, similar to the idea that the victors write history books. And that historically, truth is volatile and constantly changing because people are quick to alter the truth to fit their own narratives for power, wealth, or prestige. If humanity were to go away, a stable truth would still exist in the reality of the natural world. Without humanity earth, fire, water, and all the elements of life would still exist, unmanipulated by humans. 
