@@ -30,4 +30,4 @@ An example of ethically questionable research that I know of is the Miligram Con
 
 ### Bias Activities
 ![major sources of bias](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917255/bin/nihms-198809-f0001.jpg)
-![bias avoidance](https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/wm-hhspa.gif)
+
