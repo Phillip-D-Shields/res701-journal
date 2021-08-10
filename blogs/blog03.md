@@ -20,3 +20,14 @@ The class topic for this week revolved around the concepts of ethics and bias in
 I think bias is important because it addresses any preferences that the researcher / researchers may have when approaching their research. Such preferences could skew the integrity of the research before it even begins.
 
 Ethics is more concerned with all the participants of the research, from the authors of cited resources to individuals that provide data through interviews or surveys. a focus on ethics ensures that everyone involved is respected and treated responsibly, equally, and equitably. 
+
+
+### Ethics Activities
+
+#### ethically questionable research example 
+#### [miligram conformity experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+An example of ethically questionable research that I know of is the Miligram Conformity Experiments. It was a well-intentioned attempt to investigate obedience and authority, but resulted in many of the participants suffering long-term pyschological trauma from their participation in the experiment. 
+
+### Bias Activities
+![major sources of bias](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917255/bin/nihms-198809-f0001.jpg)
+
