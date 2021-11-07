@@ -1,12 +1,12 @@
-# Blog 07 : 
+# Blog 07 : 10/05/21
 
 ## Intellectual property (IP)
 
-this class discussed and explored the various ways that IP can use copyrights, patents, and licenses. we also discussed the differences between licenses and ideal use-cases for each.
+this class discussed and explored what IP is, and the various ways that IP can use copyrights, patents, and licenses. we also discussed the differences between licenses and ideal use-cases for each.
 
 ## common licenses
 
-#### GNU GPLv3
+#### GNU GPLv3 (my new fav)
 
 > Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
