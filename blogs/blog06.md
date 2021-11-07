@@ -1,4 +1,4 @@
-# Blog 06 : 
+# Blog 06 : 09/07/21
 
 ## citations and references
 
