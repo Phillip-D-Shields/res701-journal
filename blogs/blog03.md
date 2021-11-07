@@ -1,4 +1,4 @@
-# Blog 01 : 08/10/2021
+# Blog 03 : 08/10/2021
 
 ## Research : Bias && Ethics
 
