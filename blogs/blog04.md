@@ -1,4 +1,4 @@
-# Blog 04 
+# Blog 04 : 08/17/21
 
 ## Devising a research question
 
