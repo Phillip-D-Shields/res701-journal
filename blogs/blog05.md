@@ -1,4 +1,4 @@
-# Blog 05 : 
+# Blog 05 : 08/31/21
 
 ## Academic articles and credibility
 
